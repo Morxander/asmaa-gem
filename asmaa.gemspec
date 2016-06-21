@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Arabian Names Genders"
   spec.description   = "This is a simple gem to detect any Arabian name gender"
-  spec.homepage      = "https://www.morad-edwar.com"
+  spec.homepage      = "https://github.com/Morxander/asmaa-gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
