@@ -25,8 +25,8 @@ Or install it yourself as:
 Just start using it
 
     Asmaa.get_gender "مراد" # returns "male"
-    Asmaa.is_male? "مراد" # retuens true
-    Asmaa.is_female? "مراد" #returns false
+    Asmaa.is_male? "مراد"   # returns true
+    Asmaa.is_female? "مراد" # returns false
     
 ## Development
 
